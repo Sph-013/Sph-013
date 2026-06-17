@@ -4,7 +4,7 @@ I'm transitioning into IT Support / Junior System Administration, with hands-on 
 
 ## Focus Areas
 - Windows Client & Server
-- Active Directory basics
+- Active Directory
 - Networking: TCP/IP, DNS, DHCP, NAT, VLANs
 - Linux administration
 - Azure VMs and virtualization
@@ -12,9 +12,6 @@ I'm transitioning into IT Support / Junior System Administration, with hands-on 
 
 ## Featured Projects
 - Windows Server Active Directory Home Lab
-- Linux Web Server & Monitoring Lab
-- Network Troubleshooting Notes
-- Python / Automation Scripts
 
 ## Tools
 Windows Server, Active Directory, Linux, SSH, PowerShell, VirtualBox, Azure, Wireshark, Git/GitHub
