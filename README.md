@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**Sph-013/Sph-013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into IT Support / Junior System Administration, with hands-on experience in CNC production environments, Windows/Linux troubleshooting, networking basics, and self-hosted server projects.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Windows Client & Server
+- Active Directory basics
+- Networking: TCP/IP, DNS, DHCP, NAT, VLANs
+- Linux administration
+- Azure VMs and virtualization
+- Troubleshooting and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Windows Server Active Directory Home Lab
+- Linux Web Server & Monitoring Lab
+- Network Troubleshooting Notes
+- Python / Automation Scripts
+
+## Tools
+Windows Server, Active Directory, Linux, SSH, PowerShell, VirtualBox, Azure, Wireshark, Git/GitHub
