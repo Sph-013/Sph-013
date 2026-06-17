@@ -12,6 +12,3 @@ I'm transitioning into IT Support / Junior System Administration, with hands-on 
 
 ## Featured Projects
 - Windows Server Active Directory Home Lab
-
-## Tools
-Windows Server, Active Directory, Linux, SSH, PowerShell, VirtualBox, Azure, Wireshark, Git/GitHub
